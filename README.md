@@ -1,3 +1,3 @@
-# flutter_user_profiles_app
+# test_project
 
 A new Flutter project.
